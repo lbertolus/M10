@@ -1,0 +1,38 @@
+---
+title: "Essay on Shiny Apps"
+format:
+  html:
+    embed-resources: true
+    theme: darkly
+    toc: true
+    shiny: true
+---
+
+> **In Step 2, you learned how to build an interactive web app using Shiny. Let's assume that your coworkers are interested in learning about it and assume that you are helping them. Create a lecture note that you can use to teach the person. This will become part of the website under "Essay on Shiny Apps."**
+
+---
+
+# Shiny 101: Building Interactive Web Apps with R
+
+Imagine you just finished an insightful data analysis, and instead of sending your team a static PDF or dashboard screenshot, you send them something they can actually interact with, to change inputs, filter data, and see the results update in real time. That’s what Shiny allows you to do.
+
+This guide is for anyone on the team who’s curious about turning their R code into something dynamic and user-friendly. Even if you’ve never touched a line of HTML or JavaScript, Shiny lets you build and share web apps using just R.
+
+## What Is Shiny?
+
+Shiny is an R package developed by Posit (formerly RStudio) that makes it simple to build interactive web applications. It’s a powerful tool for data analysts and scientists who want to share results in a more engaging, hands-on way.
+
+Whether you're building a data exploration tool, a dashboard for KPIs, or a simulation model, Shiny helps you move from *reporting data* to *engaging users with it*.
+
+## How a Shiny App Is Structured
+
+Shiny apps are built around three core components:
+
+### 1. **UI (User Interface)**
+This is what your users see — the layout, buttons, sliders, plots, and tables. You design the interface using functions like `fluidPage()`, `sidebarLayout()`, and `mainPanel()`.
+
+### 2. **Server Function**
+This is where the logic happens. The server function takes the user’s input and tells the app what to do with it — like filtering a dataset or updating a graph.
+
+### 3. **shinyApp()**
+This wraps everything together and launches the app in a browser.

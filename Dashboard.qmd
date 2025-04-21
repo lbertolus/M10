@@ -1,0 +1,30 @@
+---
+title: "Vehicle Performance Dashboard"
+format: html
+---
+> **As you watch videos on Quarto Dashboard in Step 1, follow along with the data of your choice and create a dashboard you can add to your website.**
+
+---
+
+# Vehicle Performance Dashboard
+
+This interactive dashboard uses the built-in `mtcars` dataset to explore the relationship between weight, miles per gallon (MPG), and engine characteristics.
+
+```{r}
+library(ggplot2)
+library(plotly)
+
+# Create a scatter plot
+p <- ggplot(mtcars, aes(x = wt, y = mpg, color = as.factor(cyl), text = rownames(mtcars))) +
+  geom_point(size = 3) +
+  labs(
+    title = "Fuel Efficiency vs. Vehicle Weight",
+    x = "Weight (1000 lbs)",
+    y = "Miles per Gallon",
+    color = "Cylinders"
+  ) +
+  theme_minimal()
+
+# Convert to interactive plot
+ggplotly(p, tooltip = "text")
+```

@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "My Quarto Portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Dashboard.qmd
+        text: Dashboard
+      - href: Essay on Shiny Apps.qmd
+        text: Essay on Shiny Apps
+      - href: Essay on Shinylive.qmd
+        text: Essay on Shinylive
+
+format:
+  html:
+    theme: darkly
+    css: styles.css
+    toc: true

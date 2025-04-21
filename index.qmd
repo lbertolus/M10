@@ -1,0 +1,41 @@
+# Welcome to My Website
+
+<img src="website picture.JPEG" width="150" style="border-radius: 10px;"/>
+
+## About Me
+
+Hi, I’m Logan Bertolus. I'm an MBA student and full-time Supply Chain Associate who is passionate about efficiency and continuous improvement.
+
+In my current role, I focus on optimizing internal processes and helping with sourcing efforts to enhance the overall operations of our company. I enjoy identifying opportunities to streamline workflows and helping our team work smarter.
+
+As I pursue my MBA, I’m expanding my knowledge in business strategy, leadership, and data-driven decision-making. This experience is shaping the way I approach complex challenges and has helped prepare me for future opportunities in operations and beyond.
+
+I’m always looking to grow, connect, and contribute to meaningful work that strengthens systems and drives positive change. I’m interested in connecting with others who are passionate about operations, strategy, and continuous improvement, learning from their experiences and sharing ideas to create smarter, more impactful solutions for my work down the line.
+
+## Career Aspiration
+
+I aspire to grow into a leadership role where I can guide motivated teams and drive meaningful results through collaboration and strategic thinking. My current role as a Supply Chain Associate has given me hands-on experience in operations and process improvement, and my MBA is helping me build the skills needed to lead with impact.
+
+I believe that leading a team is one of the most effective ways to influence positive outcomes. That is by empowering others, fostering alignment, and creating a strong, purpose-driven culture. I’m excited to continue learning and developing as I work toward a future in team and operations management.
+
+## Skills
+
+-   R / RStudio
+-   Power BI
+-   Autodesk Inventor
+-   Microsoft & Apple Productivity Applications
+-   SolidWorks
+-   SAP
+-   Tableau
+-   erwin Data Modeler
+-   MSSQL
+
+## Languages
+
+-   French (Fluent)
+
+## Education
+
+-   **Cal Poly Pomona,** Pomona, California — Master of Business Administration
+    -   **Expected Graduation:** December 2025
+-   **Cal Poly Pomona,** Pomona, California — Bachelor of Business Administration in TOM (Technology & Operations Management)
