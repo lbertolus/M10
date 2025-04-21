@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "Essay on Shiny Apps.html",
+    "href": "Essay on Shiny Apps.html",
+    "title": "Essay on Shiny Apps",
+    "section": "",
+    "text": "In Step 2, you learned how to build an interactive web app using Shiny. Let’s assume that your coworkers are interested in learning about it and assume that you are helping them. Create a lecture note that you can use to teach the person. This will become part of the website under “Essay on Shiny Apps.”"
+  },
+  {
+    "objectID": "Essay on Shiny Apps.html#what-is-shiny",
+    "href": "Essay on Shiny Apps.html#what-is-shiny",
+    "title": "Essay on Shiny Apps",
+    "section": "What Is Shiny?",
+    "text": "What Is Shiny?\nShiny is an R package developed by Posit (formerly RStudio) that makes it simple to build interactive web applications. It’s a powerful tool for data analysts and scientists who want to share results in a more engaging, hands-on way.\nWhether you’re building a data exploration tool, a dashboard for KPIs, or a simulation model, Shiny helps you move from reporting data to engaging users with it."
+  },
+  {
+    "objectID": "Essay on Shiny Apps.html#how-a-shiny-app-is-structured",
+    "href": "Essay on Shiny Apps.html#how-a-shiny-app-is-structured",
+    "title": "Essay on Shiny Apps",
+    "section": "How a Shiny App Is Structured",
+    "text": "How a Shiny App Is Structured\nShiny apps are built around three core components:\n\n1. UI (User Interface)\nThis is what your users see — the layout, buttons, sliders, plots, and tables. You design the interface using functions like fluidPage(), sidebarLayout(), and mainPanel().\n\n\n2. Server Function\nThis is where the logic happens. The server function takes the user’s input and tells the app what to do with it — like filtering a dataset or updating a graph.\n\n\n3. shinyApp()\nThis wraps everything together and launches the app in a browser."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "Hi, I’m Logan Bertolus. I’m an MBA student and full-time Supply Chain Associate who is passionate about efficiency and continuous improvement.\nIn my current role, I focus on optimizing internal processes and helping with sourcing efforts to enhance the overall operations of our company. I enjoy identifying opportunities to streamline workflows and helping our team work smarter.\nAs I pursue my MBA, I’m expanding my knowledge in business strategy, leadership, and data-driven decision-making. This experience is shaping the way I approach complex challenges and has helped prepare me for future opportunities in operations and beyond.\nI’m always looking to grow, connect, and contribute to meaningful work that strengthens systems and drives positive change. I’m interested in connecting with others who are passionate about operations, strategy, and continuous improvement, learning from their experiences and sharing ideas to create smarter, more impactful solutions for my work down the line.\n\n\n\nI aspire to grow into a leadership role where I can guide motivated teams and drive meaningful results through collaboration and strategic thinking. My current role as a Supply Chain Associate has given me hands-on experience in operations and process improvement, and my MBA is helping me build the skills needed to lead with impact.\nI believe that leading a team is one of the most effective ways to influence positive outcomes. That is by empowering others, fostering alignment, and creating a strong, purpose-driven culture. I’m excited to continue learning and developing as I work toward a future in team and operations management.\n\n\n\n\nR / RStudio\nPower BI\nAutodesk Inventor\nMicrosoft & Apple Productivity Applications\nSolidWorks\nSAP\nTableau\nerwin Data Modeler\nMSSQL\n\n\n\n\n\nFrench (Fluent)\n\n\n\n\n\nCal Poly Pomona, Pomona, California — Master of Business Administration\n\nExpected Graduation: December 2025\n\nCal Poly Pomona, Pomona, California — Bachelor of Business Administration in TOM (Technology & Operations Management)"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "Hi, I’m Logan Bertolus. I’m an MBA student and full-time Supply Chain Associate who is passionate about efficiency and continuous improvement.\nIn my current role, I focus on optimizing internal processes and helping with sourcing efforts to enhance the overall operations of our company. I enjoy identifying opportunities to streamline workflows and helping our team work smarter.\nAs I pursue my MBA, I’m expanding my knowledge in business strategy, leadership, and data-driven decision-making. This experience is shaping the way I approach complex challenges and has helped prepare me for future opportunities in operations and beyond.\nI’m always looking to grow, connect, and contribute to meaningful work that strengthens systems and drives positive change. I’m interested in connecting with others who are passionate about operations, strategy, and continuous improvement, learning from their experiences and sharing ideas to create smarter, more impactful solutions for my work down the line."
+  },
+  {
+    "objectID": "index.html#career-aspiration",
+    "href": "index.html#career-aspiration",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "I aspire to grow into a leadership role where I can guide motivated teams and drive meaningful results through collaboration and strategic thinking. My current role as a Supply Chain Associate has given me hands-on experience in operations and process improvement, and my MBA is helping me build the skills needed to lead with impact.\nI believe that leading a team is one of the most effective ways to influence positive outcomes. That is by empowering others, fostering alignment, and creating a strong, purpose-driven culture. I’m excited to continue learning and developing as I work toward a future in team and operations management."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "R / RStudio\nPower BI\nAutodesk Inventor\nMicrosoft & Apple Productivity Applications\nSolidWorks\nSAP\nTableau\nerwin Data Modeler\nMSSQL"
+  },
+  {
+    "objectID": "index.html#languages",
+    "href": "index.html#languages",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "French (Fluent)"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "Cal Poly Pomona, Pomona, California — Master of Business Administration\n\nExpected Graduation: December 2025\n\nCal Poly Pomona, Pomona, California — Bachelor of Business Administration in TOM (Technology & Operations Management)"
+  },
+  {
+    "objectID": "Essay on Shinylive.html",
+    "href": "Essay on Shinylive.html",
+    "title": "Essay on Shinylive",
+    "section": "",
+    "text": "In Step 3, you learned about serverless Shiny Apps with “Shinylive.” What is Shinylive? Assume that you are also explaining it to your coworkers. How does it differ from the traditional Shiny app introduced in Step 2? What are the pros and cons of Shinylive in comparison with Shiny Apps? This lecture note will become your “Essay on Shiny Live” part of the website."
+  },
+  {
+    "objectID": "Essay on Shinylive.html#key-differences",
+    "href": "Essay on Shinylive.html#key-differences",
+    "title": "Essay on Shinylive",
+    "section": "Key Differences",
+    "text": "Key Differences\n\n\n\n\n\n\n\n\nFeature\nTraditional Shiny\nShinylive\n\n\n\n\nHosting\nNeeds R server\nRuns in browser (serverless)\n\n\nSetup\nModerate\nVery simple\n\n\nPackage Support\nFull R packages\nLimited to browser-safe packages\n\n\nUse Cases\nDashboards, internal apps\nDemos, teaching, lightweight tools"
+  },
+  {
+    "objectID": "Essay on Shinylive.html#pros-and-cons",
+    "href": "Essay on Shinylive.html#pros-and-cons",
+    "title": "Essay on Shinylive",
+    "section": "Pros and Cons",
+    "text": "Pros and Cons\nPros:\n\nNo server or hosting costs\nEasy deployment (works with static sites)\nGreat for small apps, education, and demos\n\nCons:\n\nLimited package support\nNo access to external data or files\nNot ideal for large or complex apps"
+  },
+  {
+    "objectID": "Essay on Shinylive.html#final-thoughts",
+    "href": "Essay on Shinylive.html#final-thoughts",
+    "title": "Essay on Shinylive",
+    "section": "Final Thoughts",
+    "text": "Final Thoughts\nShinylive is best for simple, shareable apps. Think quick prototypes, interactive lectures, or public demos. For more complex apps with real-time data or heavier processing, traditional Shiny will still be the better tool to use."
+  },
+  {
+    "objectID": "Dashboard.html",
+    "href": "Dashboard.html",
+    "title": "Vehicle Performance Dashboard",
+    "section": "",
+    "text": "As you watch videos on Quarto Dashboard in Step 1, follow along with the data of your choice and create a dashboard you can add to your website.\n\n\n\nVehicle Performance Dashboard\nThis interactive dashboard uses the built-in mtcars dataset to explore the relationship between weight, miles per gallon (MPG), and engine characteristics.\n\nlibrary(ggplot2)\nlibrary(plotly)\n\n\nAttaching package: 'plotly'\n\n\nThe following object is masked from 'package:ggplot2':\n\n    last_plot\n\n\nThe following object is masked from 'package:stats':\n\n    filter\n\n\nThe following object is masked from 'package:graphics':\n\n    layout\n\n# Create a scatter plot\np &lt;- ggplot(mtcars, aes(x = wt, y = mpg, color = as.factor(cyl), text = rownames(mtcars))) +\n  geom_point(size = 3) +\n  labs(\n    title = \"Fuel Efficiency vs. Vehicle Weight\",\n    x = \"Weight (1000 lbs)\",\n    y = \"Miles per Gallon\",\n    color = \"Cylinders\"\n  ) +\n  theme_minimal()\n\n# Convert to interactive plot\nggplotly(p, tooltip = \"text\")"
+  }
+]
